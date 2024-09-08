@@ -1,5 +1,9 @@
-*.pyc
+# Arquivo de backup do Vim
 *~
-__pycache__
-.venv
+
+# Ambiente virtual e arquivos de cache
+.venv/
+*.pyc
+*.pyo
+__pycache__/
 
