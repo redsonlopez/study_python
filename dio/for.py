@@ -1,0 +1,10 @@
+texto= input("Informe um texto: ")
+
+vogais= "AEIOU"
+
+for letra in texto:
+    if letra.upper() in vogais:
+        print(letra, end= " ")
+
+print() # Adiciona uma quebra de linha
+
