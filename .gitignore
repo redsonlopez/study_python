@@ -1,6 +1,6 @@
 # Arquivos do Jupyter e do Vim
-.ipynb_checkpoints/
-.ipynb_cache/
+*.ipynb_checkpoints/
+*.ipynb_cache/
 *~
 
 # Ambiente virtual e arquivos de cache
