@@ -1,6 +1,5 @@
 from random import choice
 
-
 class VerticeAVL:
 
     def __init__(self, chave, dado, pai=None):
